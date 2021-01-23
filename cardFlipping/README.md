@@ -2,7 +2,7 @@
 
 ## TL;DR Latest Results
 
-<u>1000000 Iterations</u>
+<u>1x10</u><sup>6</sup> <u>Iterations</u>
 
 | Player    |Wins   |Win Percentage (1 d.p)| 
 | :--------:|:-----:|:------------:|
@@ -101,7 +101,7 @@ Intuitively I thought it would be a place in the middle with the highest chance 
 
 ## Simulation Results
 
-<u>1000000 Iterations</u>
+<u>1x10</u><sup>6</sup> <u>Iterations</u>
 
 | Player    |Wins   |Win Percentage (1 d.p)| 
 | :--------:|:-----:|:------------:|
