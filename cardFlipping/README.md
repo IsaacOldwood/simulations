@@ -1,5 +1,19 @@
 # Card Flipping Game
 
+## TL;DR Latest Results
+
+<u>1000000 Iterations</u>
+
+| Player    |Wins   |Win Percentage (1 d.p)| 
+| :--------:|:-----:|:------------:|
+| Player 1  |143158 | 14.3%        |
+| Player 2  |143289 | 14.3%        |
+| Player 3  |142682 | 14.3%        |
+| Player 4  |142281 | 14.2%        |
+| Player 5  |143665 | 14.4%        |
+| Player 6  |142636 | 14.3%        |
+| Player 7  |142289 | 14.2%        |
+
 ## Background
 
 This repo is to simulate a simplified version of a game I play IRL. As an MMath student I thought I could figure out the probabilities of winning this game by hand (my original analysis below). However I'm not convinced by my own workings out so thought it a good idea to run a simulation and see if my calculations are reasonable. IRL we have 7 players but this could be adapted to any number.
@@ -84,3 +98,21 @@ I used the same method and assumptions as above and this was my process.
 @ToDo Add graph of placement vs chance of winning
 
 Intuitively I thought it would be a place in the middle with the highest chance of winning so I decided to create this simulation to test my theory.
+
+## Simulation Results
+
+<u>1000000 Iterations</u>
+
+| Player    |Wins   |Win Percentage (1 d.p)| 
+| :--------:|:-----:|:------------:|
+| Player 1  |143158 | 14.3%        |
+| Player 2  |143289 | 14.3%        |
+| Player 3  |142682 | 14.3%        |
+| Player 4  |142281 | 14.2%        |
+| Player 5  |143665 | 14.4%        |
+| Player 6  |142636 | 14.3%        |
+| Player 7  |142289 | 14.2%        |
+
+## Conclusion
+
+Clearly my analysis doesn't match the simulation so if anyone can point out my mistake I will be very grateful.
